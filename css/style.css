@@ -1,0 +1,56 @@
+body {
+    background-color: #99f2d0;
+    font-family: Georgia, serif;
+    color: #224400;
+    margin: 40px;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: bold;
+    color: #224400;
+}
+
+.intro {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+hr {
+    margin: 20px 0;
+    border: 1px solid #cc8899;
+}
+
+h2 {
+    color: #225500;
+    font-size: 22px;
+}
+
+.orar {
+    font-size: 16px;
+    color: #002200;
+    font-family: "Courier New", Courier, monospace;
+    margin-top: 15px;
+}
+
+.statistica {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+    padding: 2px 4px;
+}
+
+.final-msg a {
+    color: green;
+    font-weight: bold;
+    text-decoration: underline;
+}
